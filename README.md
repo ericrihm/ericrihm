@@ -1,8 +1,12 @@
+
 ### Hi there 👋
-<div id="badges">
+  <p align="center" width="100%"> 
+   <img width="20%" src="https://github.com/ericrihm/ericrihm/assets/19367455/2555fa77-a041-4a62-832b-e01cc17bf9fc"/>
+    <div id="badges">
   <a href="https://www.linkedin.com/in/ericrihm/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <p align="center" width="100%"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </p>
+  
+
 <!--
 **ericrihm/ericrihm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
