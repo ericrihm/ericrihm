@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Greetings 👋
   <p align="center" width="100%"> 
    <img width="20%" src="https://github.com/ericrihm/ericrihm/assets/19367455/2555fa77-a041-4a62-832b-e01cc17bf9fc"/>
     <div id="badges">
