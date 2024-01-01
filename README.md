@@ -1,10 +1,10 @@
 
-### Greetings 👋
+### Hi, I'm Eric 👋
   <p align="center" width="100%"> 
    <img width="20%" src="https://github.com/ericrihm/ericrihm/assets/19367455/2555fa77-a041-4a62-832b-e01cc17bf9fc"/>
     <div id="badges">
   <a href="https://www.linkedin.com/in/ericrihm/">
-    <p align="center" width="100%"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </p>
+    <p align="center" width="100%"> <img src="https://github.com/ericrihm/ericrihm/assets/19367455/e9abc013-a678-45cd-b68f-b2039c3d2011" alt="LinkedIn Badge"/> </p>
   
 
 <!--
